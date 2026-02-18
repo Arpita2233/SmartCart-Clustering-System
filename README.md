@@ -22,8 +22,8 @@ Pandas
 Matplotlib
 Scikit-Learn
 Jupyter Notebook
-📈 Results
 
+📈 Results
 The model successfully segmented customers into meaningful clusters based on purchasing behavior and demographics.
 These clusters can help businesses:
 Target premium customers
